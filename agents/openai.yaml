@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub HTTPS Remote Push"
+  short_description: "Commit and push local project changes to GitHub over HTTPS."
+  default_prompt: "Use this skill to commit local changes and push them to a GitHub HTTPS remote, including routine pushes, first-time setup, upstream tracking, and Git Credential Manager authentication when needed."
